@@ -1,8 +1,32 @@
+DOMINIO: 
+    - nome de identificacao(nomeacao unica)
+    - pago anualmente
+    - varios TLD's
+
+HOSPEDAGEM: (tomar mais cuidado na escolha)
+    - local onde o site estara armazenado
+    - pago mensalmente
+    -  
 
 
+~~~ URL ~~~
+https:/ -> protocolo
+www.github.com/gustavoguanabara
+www -> subdominio
+github -> dominio
+.com -> TLD
+/gustavoguanabara -> URL/caminho
 
-
-
+~~~~ BYTES ~~~~
+MB(Armazenamento) =! Mb(transmicao)
+1024 bytes = 1 KB
+1024 KB    = 1 MB
+1024 MB    = 1 GB
+1024 GB    = 1 TB
+1024 TB    = 1 PB
+1024 PT    = 1 EB
+1024 EB    = 1 ZB (zeta)
+1024 ZB    = 1 YB (yota)
 
 
 ~~~~ REFERENCIAS ~~~~
@@ -21,4 +45,9 @@
 - hmtl e css, Jon Duckett
 - html e css, ELizabeth Robsin e Eric Freeman
 - crei seu proprio site, Nate cooper e Kim Gee
+______________________________________________________
+            sobre a internet
+-sputnik: primeiro satelite a ser lancado em orbita (satelite teste)
+-darpa: criadora de armas para os EUA, criadora da ARPANET.
+
 
