@@ -6,8 +6,52 @@ DOMINIO:
 HOSPEDAGEM: (tomar mais cuidado na escolha)
     - local onde o site estara armazenado
     - pago mensalmente
-    -  
 
+HTML é focada em conteudo. (texto, imagem, video, tabela)
+CSS é o designer (cores, sombras, tamanhos, posicionamento)
+JS é a parte iterativa
+
+---------------------------- HTML ----------------------------------------
+
+** ESTRUTURA BASICA DO HTML **
+<!DOCTYPE html> ->usada para especificar que esta usando html5
+<html lang="pt-br">  -> usado para dizer qual sera a lingua primordial do site, neste caso, portugues
+    <head>->cabeca
+        <meta charset="UTF-8">  -> sera compativeis com meta hf8, ou seja, uso de caracter especial.
+        <meta name="viewport"
+              content="wid=device-width, initial-scale=1.0">     -> abertura padrao sem zoom.
+              <title>DOCUMENT</titler>
+
+    </head> 
+    <body> ->corpo
+        <h1>olá, Mundo!</h1>
+
+    </body>
+</html>
+
+
+-------------------------- marcacoes ----------------------------------------
+<> abertura de tag      </> dechamento de tag
+ex: <H1> EXEMPLO DE TITULO </H1>
+    
+<h1>titulo</h1>
+hr ->cria uma linha
+<p>paragrafo</p>
+---------------------------- CSS --------------------------------------------
+setor { -inicia                 *eh orbigatorio o uso de ponto e virgula 
+    declaracao                      apos as declaracoes
+} - finaliza
+
+h1{ 
+    font-family: Arial;
+    font-size: 20pt;
+    coloer: blue;
+}
+_____________________________________________________________________________
+obs:
+FRONT-END: html, css, js -> parte visual do site
+BACK-END: php, js, c#, ruby, java, python -> interação com o servidor
+FULL STACK: juncao do front e back
 
 ~~~ URL ~~~
 https:/ -> protocolo
