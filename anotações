@@ -37,6 +37,23 @@ ex: <H1> EXEMPLO DE TITULO </H1>
 <h1>titulo</h1>
 hr ->cria uma linha
 <p>paragrafo</p>
+
+#########direcionamento para cuidados com direitos autorais#####
+1 - pesquisa no google a img que deseja
+2 - click em ferramentas
+3 - selecione: direitos de uso
+    * marcadas para reutilizacao com modificacao: melhor opcao e voce ainda pode estar modificando 
+
+    *marcadas para reutilizacao: voce pode usar, sem utilizar
+
+    *marcadas para reutilizacao nao comercial com modificacao: pode usar desde que nao haja fins lucrativos
+
+    *marcadas para reutilizacao nao comercial: nao pode usar com finalidades lucrativas
+
+
+    SITES PARA BUSCAS DE IMAGENS COM LICENCAS LIBERADAS:
+        - unsplash (busca em ingles)
+        - pexels (busca em ingles)
 ---------------------------- CSS --------------------------------------------
 setor { -inicia                 *eh orbigatorio o uso de ponto e virgula 
     declaracao                      apos as declaracoes
