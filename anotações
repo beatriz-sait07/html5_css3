@@ -38,6 +38,16 @@ ex: <H1> EXEMPLO DE TITULO </H1>
 hr ->cria uma linha
 <p>paragrafo</p>
 
+
+------------------------------ Titulos -------------------------------------
+gerados de h1 - h6
+sendo eles:
+H1 titulo principal
+H2 subtitulo e assim por diante, veja um livro de exemplos(em caso de duvidas: aula 19, mundo 1)
+
+
+
+
 #########direcionamento para cuidados com direitos autorais#####
 1 - pesquisa no google a img que deseja
 2 - click em ferramentas
@@ -54,6 +64,9 @@ hr ->cria uma linha
     SITES PARA BUSCAS DE IMAGENS COM LICENCAS LIBERADAS:
         - unsplash (busca em ingles)
         - pexels (busca em ingles)
+
+
+
 ---------------------------- CSS --------------------------------------------
 setor { -inicia                 *eh orbigatorio o uso de ponto e virgula 
     declaracao                      apos as declaracoes
