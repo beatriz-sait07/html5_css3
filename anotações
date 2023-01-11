@@ -120,12 +120,12 @@ MB(Armazenamento) =! Mb(transmicao)
 - html e css, ELizabeth Robsin e Eric Freeman
 - crei seu proprio site, Nate cooper e Kim Gee
 ______________________________________________________
-            sobre a internet
+1            sobre a internet
 -sputnik: primeiro satelite a ser lancado em orbita (satelite teste)
 -darpa: criadora de armas para os EUA, criadora da ARPANET.
 
 
-            sobre imagens -> cap 6, aula2/3
+2            sobre imagens -> cap 6, aula2/3
 - jpg: alta compactacao
 - png: trasnparencia(tbm eh compactado, mas nao em um nivel tao alto) maior qualidade
 
@@ -136,3 +136,6 @@ ______________________________________________________
 --> criar icons: favicon.cc
 tamanho maximo para o site: 1500
 tamanho padrao para o site: 650
+
+3           semantica
+*tem mais significado o vocabulario do que a forma.
