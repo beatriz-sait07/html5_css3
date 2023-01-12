@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formatação de texto</title>
+    <style> 
+        mark {
+            background-color: lime;
+        }
+    </style> 
+</head>
+<body>
+    <!-- usando o style/mark no head podemos fazer com que todos os mark do corpo/body fique com a cor desejada pelo style....
+    para solucionar suas duvidas, apague o style (volte ele apos ver a mudanca)-->
+    <h1>Principais Formatações</h1>
+    <h1>Negrito / Destaque:</h1>
+
+    <p><b>nesta frase temos um exemplo em negrito</b> e esta é apenas uma frase para comparar com a frase em negrito.</p> <!--forma nao semantica-->
+    <p><strong>Nesta frase temos outro exemplo em negrito</strong> e esta é apenas mais uma frase de comparação.</p> <!--usando semantica-->
+    <H1>Italico / Ênfase:</H1>
+    <p><i>Nesta frase temos um exemplo em itálico</i> e esta é apenas uma frase de comparação.</p> <!--forma nao semantica-->
+    <p><i>Nesta frase temos outro exemplo em itálico</i> e esta é apenas uma frase de comparação.</p> <!--forma semantica-->
+    <p>podemos criar também usando um marcador de texto: <mark style="background-color: lime;">conhecido como tag MARK. Neste casso em especifico, nos estamos utlizando CSS para mudar a cor da marcação</mark> <br><br> <mark>ja neste caso estamos usando o modo padrao do MARK.</mark> </p>
+    <p>Nesta frase usaremos um: <big>exemplo de texto grande</big> e um <small>exemplo de texto pequeno.</small></p>
+    <h2>Texto deletado:</h2>
+    <p>podemos marcar um <del>texto como excluido</del> para indicar que ele deve ser lido, mas não considerado.</p>
+    <h2>Texto inserido:</h2>
+    <p>podemos marcar um <ins>texto como inserido</ins> para dar uma ênfase e indicar que ele foi adicionado depois.</p>
+    <p>Existe também o <u>sublinhado</u></p> <!--tag nao semantica-->
+    <h2>Texto sobrescrito:</h2>
+    <p>Para inserir coisas tipo: x<sup>2</sup>+3</p>
+    <h2>Texto subscrito</h2>
+    <p>Para inserir coisa do tipo: H<sub>2</sub>O</p>
+</body>
+</html>
