@@ -17,5 +17,18 @@
 
     </picture>
 
+    <h1>Reproduzindo Audio</h1>
+    <p>modelo 1: o mais simples 'audio controls autoplay'</p>
+    <audio src="midia/teste_bia.m4a" controls autoplay></audio>
+    <!-- MP3 WAV DGG-->
+    <p>modelo 2: compatibilidade extra.</p>
+    <audio>
+        <!--ele ira realizar os comando linha a linha, caso uma linha nao rode, ele tentara a prix. se a primeira linha rodar, ele ignora as subsequentes-->
+        <source src="midia/teste_bia.m4a" type="audio/mpeg">
+        <source src="midia/teste_bia.m4a" type="audio/ogg">
+        <source src="midia/teste_bia.m4a" type="audio/wav"> <!--evita usar este pois ele eh muito pesado-->
+        <p>caso isso apareca, significa que o site nao foi compativel com o audio escolhido. tente fazer o <a href="midia/teste_bia.m4a">download aqui</a></p>
+    </audio>
+    <p><a href="midia/teste_bia.m4a">download do audio</a></p>
 </body>
 </html>
