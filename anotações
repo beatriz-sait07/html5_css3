@@ -132,6 +132,7 @@ ______________________________________________________
 
 **lembre de sempre manter uma imagem original, as fotos editadass voce coloca subnomes e novos arquivos
 
+
 --> desenhar icons: favicon.cc
 --> criar icons: favicon.cc
 tamanho maximo para o site: 1500
@@ -139,3 +140,7 @@ tamanho padrao para o site: 650
 
 3           semantica
 *tem mais significado o vocabulario do que a forma.
+
+
+4           videos
+é mais interessante usar a hospedagem do Youtube ou do Vimeo(melhor opção, pois pode configurar melhor) pois diminui o tamanho de transferencia de dados, de valor de hospedagem e etc...
