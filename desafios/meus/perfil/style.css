@@ -5,11 +5,29 @@ body {
 .main {
     background-color: rgba(255, 255, 255, 0.314);
     width: 500px;
+    padding: 10px;
+    border-radius: 5ch;
 }
 
 img {
+    margin: auto;
     border-radius: 70%;
     width: 250px;
     height: 250px;
     object-fit: cover;
+}
+
+.img_gi {
+    width: 20px;
+    height: 20px;
+}
+
+.rs a{
+    font-size: 30px;
+    color:#1f322b;
+}
+
+*{
+    margin: auto; /*restante da tela*/
+    text-align: center; /* imagem*/
 }
